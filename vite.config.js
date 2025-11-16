@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/tasbih_app/'
+  base: '/tasbih/'
 })
