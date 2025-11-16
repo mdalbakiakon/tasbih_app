@@ -4,13 +4,13 @@ A **modern, responsive, and interactive counter app** built with React and Tailw
 
 ---
 
-## Project Live Demo
+## 💻 Project Live Demo
 
 [Live Demo](https://your-live-demo-url.com)
 
 ---
 
-## Features
+## ✨ Features
 
 - Increment and decrement counter
 - Prevents negative counts
@@ -22,7 +22,7 @@ A **modern, responsive, and interactive counter app** built with React and Tailw
 
 ---
 
-##  Project Screenshots 
+## 💻 Project Screenshots 
 
 **Initial State:**
 
@@ -49,7 +49,7 @@ A **modern, responsive, and interactive counter app** built with React and Tailw
 
 ## ⚡ Installation
 
-1. **Clone the repo**
+1. **Clone the repo & run the project**
 ```bash
 git clone https://github.com/mdalbakiakon/tasbih.git
 cd tasbih
