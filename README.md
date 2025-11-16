@@ -6,7 +6,7 @@ A **modern, responsive, and interactive counter app** built with React and Tailw
 
 ## 💻 Project Live Demo
 
-[Live Demo](https://your-live-demo-url.com)
+[Live Demo](https://mdalbakiakon.github.io/tasbih_app/)
 
 ---
 
