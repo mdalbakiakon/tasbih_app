@@ -51,8 +51,8 @@ A **modern, responsive, and interactive counter app** built with React and Tailw
 
 1. **Clone the repo & run the project**
 ```bash
-git clone https://github.com/mdalbakiakon/tasbih.git
-cd tasbih
+git clone https://github.com/mdalbakiakon/tasbih_app.git
+cd tasbih_app
 npm install
 npm run dev
 http://localhost:5173
