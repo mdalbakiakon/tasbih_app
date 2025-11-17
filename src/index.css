@@ -3,3 +3,9 @@
 @theme{
     --font-outfit: "Outfit", sans-serif;
 }
+
+@layer utilities {
+  .h-dvh {
+    height: 100dvh;
+  }
+}

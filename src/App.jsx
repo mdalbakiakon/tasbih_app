@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="bg-[#121212] h-screen flex flex-col justify-center items-center relative p-5 font-outfit">
+      <div className="bg-[#121212] h-dvh md:h-screen flex flex-col justify-center items-center relative p-5 font-outfit">
         <div className="flex flex-col justify-center items-center">
           <button
             onClick={() => setCount(0)}
